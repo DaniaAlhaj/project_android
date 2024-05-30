@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">proj_xml</string>
+    <string name="fill_the_following_information_to_create_an_account">Fill the following information to create an account</string>
+    <string name="image_description">Image Description</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="name">Name</string>
+    <string name="enter_id_number">Enter ID number</string>
+    <string name="id">ID</string>
+    <string name="enter_your_phone">Enter your phone</string>
+    <string name="phone_number">Phone number</string>
+    <string name="driving_license_number">driving license number</string>
+    <string name="driving_license">driving license</string>
+    <string name="enter_location">Enter location</string>
+    <string name="location">location</string>
+    <string name="enter_your_user_name">enter your user name</string>
+    <string name="user_name">user name</string>
+    <string name="enter_password">enter password</string>
+    <string name="info_2">Info 2</string>
+    <string name="next">next</string>
+    <string name="profile_information">profile information</string>
+</resources>
